@@ -11,6 +11,6 @@ Web App Link: https://wcanalyzer.herokuapp.com
 ## Source of the Data
 In WhatsApp there is an 'Export Chat' option. This gives you the access to your chat history preferably a group chat which you can export to your email with or without media data in the form of '.txt' file. I did not upload the '.txt' file of my whatsapp group chat due to some privacy issues.
 ## Overview
-Created a web-app using Streamlit to read messages from Whatsapp and show statistical analysis including number of messages, most busy users, most busiest day and month, number of emojis used etc. The app user has the freedom to choose whether to show analysis with respect to individual chat or a group chat. This web-app is hosted on AWS EC2.
+Created a web-app using Streamlit to read messages from Whatsapp and show statistical analysis including number of messages, most busy users, most busiest day and month, number of emojis used etc. The app user has the freedom to choose whether to show analysis with respect to individual chat or a group chat. This web-app is hosted on Heroku cloud paltform.
 ## Motivation
 I was always excited to know who's the most garrulous person in our group chats. Users can easily analyze their own group or individual chats and can gain data and statistical insights from it.
